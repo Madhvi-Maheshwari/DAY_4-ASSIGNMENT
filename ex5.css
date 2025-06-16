@@ -11,8 +11,8 @@
  background-image: url(https://picsum.photos/id/1014/800/300);
  background-size: cover;
  background-repeat: no-repeat;
-}
  background-position: center center;
+}
  .container .wrong {
  text-decoration: line-through;
  background-color: #000;
